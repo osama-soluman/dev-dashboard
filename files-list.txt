@@ -1,0 +1,11 @@
+total 0
+drwxrwxrwx 1 user-osama user-osama 4096 Oct 16 03:38 .
+drwxrwxrwx 1 user-osama user-osama 4096 Oct  6 21:32 ..
+drwxrwxrwx 1 user-osama user-osama 4096 Oct 14 22:13 .git
+-rwxrwxrwx 1 user-osama user-osama   25 Oct 14 22:09 .gitignore
+-rwxrwxrwx 1 user-osama user-osama  288 Oct 15 02:41 check-env.sh
+-rwxrwxrwx 1 user-osama user-osama    0 Oct 16 03:38 files-list.txt
+-rwxrwxrwx 1 user-osama user-osama  373 Oct  7 22:02 index.html
+-rwxrwxrwx 1 user-osama user-osama   88 Oct  8 02:23 requirements.txt
+-rwxrwxrwx 1 user-osama user-osama   32 Oct  7 22:32 script.sh
+drwxrwxrwx 1 user-osama user-osama 4096 Oct  8 02:17 venv
